@@ -1,0 +1,14 @@
+names:
+- helmet
+- license_plate
+- motorcyclist
+nc: 3
+roboflow:
+  license: MIT
+  project: helmet-detection-project
+  url: https://universe.roboflow.com/nckh-2023/helmet-detection-project/dataset/1
+  version: 1
+  workspace: nckh-2023
+test: ../test/images
+train: ../train/images
+val: ../valid/images

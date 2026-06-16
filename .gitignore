@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Streamlit outputs
+outputs/
+
+# YOLO training runs
+runs/
+
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.gemini/
+.antigravity/
